@@ -1,0 +1,26 @@
+.btn {
+  color: white;
+  background-color: black;
+  padding: 10px 18px;
+  border-radius: 5px;
+  font-size: 20px;
+  font-weight: 184px;
+  align-content: center;
+  justify-content: center;
+  display: flex;
+  gap: 8px;
+}
+.btn_outline {
+  color: black;
+  background-color: white;
+  border: 1px solid black;
+  padding: 10px 18px;
+  border-radius: 5px;
+  font-size: 20px;
+  font-weight: 184px;
+  align-content: center;
+  justify-content: center;
+  display: flex;
+  gap: 8px;
+  min-width: 100%;
+}
